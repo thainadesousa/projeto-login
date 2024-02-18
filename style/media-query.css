@@ -41,13 +41,14 @@ Grandes telas: acima de 1200px */
 
     #login {
         width: 950px;
-        height: 380px;
+        height: 400px;
     }
 
     div#imagem {
+        float: right;
         width: 50%;
         height: 100%;
-        float: right;
+        
     }
 
     div#formulario {
